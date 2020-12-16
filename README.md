@@ -1,2 +1,2 @@
 # update-liked-songs
-Automatically detects your playing song and displays the lyrics
+Automatically puts your liked songs into a playlist and synces it every x min.
